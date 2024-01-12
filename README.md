@@ -19,7 +19,9 @@
 <h2 align = "left">Modo de programação</h2>
 <p align="justify">Ao ativar o modo de programação com um pressionamento do botão por mais de 5s, mas menos de 10s, uma mensagem será exibida no Serial Monitor. Em seguida, é necessário definir a quantidade de movimentos necessários para realizar a tarefa. Cada pulso no botão, com duração superior a 100ms e inferior a 1000ms, será registrado como um movimento a ser gravado. <br>Após atingir o número desejado de movimentos, pressione o botão por mais de 1s para iniciar a gravação (o total de movimentos será indicado no Monitor Serial). Nesse momento, o controle do robô estará novamente operante. Execute um movimento e, em seguida, pressione o joystick para salvar essa posição.<br> Repita esse processo até alcançar a quantidade predefinida de movimentos, encerrando assim o modo de programação e retornando à operação básica do manipulador.</p>
 
-
+<a href="https://youtu.be/sLVkXOzmOBQ" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqKrNaV0gzOSkg0XL_8foZGV8-WsLLqe86w&usqp=CAU" alt="Imagem de Demonstração">
+</a>
 
 
 
