@@ -1,4 +1,4 @@
-<h1 align="center">Projeto de Manipulador Robótico com 4 eixo de liberdade</h1>
+<h1 align="center">Projeto de Manipulador Robótico com Modo de Programação</h1>
 
 <h2 align="left">Introdução</h2>
 <p align="justify">Este manipulador robótico foi feito de maneira que fosse possível simular uma garra robótica industrial porém utilizando comando de programação C++.</p>
